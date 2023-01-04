@@ -136,3 +136,15 @@ button, .call-box {
 address {
     color: #E5e7eb;
 }
+
+a:link {
+    color: #E5E7EB;
+}
+
+a:visited {
+    color: #E5E7EB
+}
+
+footer {
+    text-align: center;
+}
