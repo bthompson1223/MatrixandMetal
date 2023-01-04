@@ -31,3 +31,64 @@ ul {
     flex: 1;
 
 }
+
+.service-block {
+    display: flex;
+    gap: 8px;
+    justify-content: space-evenly;
+
+}
+
+.service-item {
+    max-width: 300px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.service-image {
+    max-width: 200px;
+}
+
+.title {
+    text-align: center;
+}
+
+.service-text {
+    text-align: center;
+}
+
+#About-the-Owner {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.quote-container {
+    padding: 4rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+
+.call-box {
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    align-items: center;  
+    border-radius: 2rem;
+}
+
+.contact {
+ height: 10%;
+ margin: 0;
+ padding: 0;
+}
+
+.call-box-content {
+    display: flex;
+    justify-content: auto;
+    gap: 10%;
+    align-items: auto;
+}
