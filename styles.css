@@ -53,6 +53,9 @@ ul {
 
 .title {
     text-align: center;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
 }
 
 .service-text {
@@ -70,6 +73,8 @@ ul {
     display: flex;
     flex-wrap: wrap;
     justify-content: flex-end;
+    background-color: #E5E7EB;
+    margin-bottom: 0;
 }
 
 .call-box {
@@ -91,4 +96,43 @@ ul {
     justify-content: auto;
     gap: 10%;
     align-items: auto;
+}
+
+header, footer {
+    background-color: #1F2937;
+}
+
+.nav-bar, .subtitle {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.hero {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+button, .call-box {
+    background-color: #3882F6;
+}
+
+.two {
+    background-color: #E5E7EB;
+    margin-bottom: 0;
+}
+
+.three {
+    background-color: #E5E7EB;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: light;
+    font-style: italic;
+    color: #1F2937
+}
+
+address {
+    color: #E5e7eb;
 }
