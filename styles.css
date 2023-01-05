@@ -24,6 +24,7 @@ ul {
 
 .header-image {
     max-width: 300px;
+    align-self: flex-end;
 }
 
 .head-content {
