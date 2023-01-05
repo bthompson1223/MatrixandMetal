@@ -30,6 +30,7 @@ ul {
 .head-content {
     display: flex;
     flex: 1;
+    justify-content: space-between;
 
 }
 
